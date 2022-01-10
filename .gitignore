@@ -1,4 +1,5 @@
 /cybertek22-cucumber-junit.iml
 /.idea/
-/target/
+/target/test-classes/classnotes/*.txt 
 *.txt
+/target/
